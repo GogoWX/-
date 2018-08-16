@@ -36,7 +36,8 @@ Chrome当前版本一共有9个功能子集，每一个图标点击后都会打�
 
 - 搜索功能：当工具面板获得焦点后，快捷键ctrl+f会打开搜索框，键入元素关键字进行搜索。
 
-- 你还可以对某个元素进行监听，在JS对元素的属性或者HTML进行修改的时候，直接触发断点，跳转到对改元素进行修改的JS代码处：![styles_breakon](images/styles_breakon.png)
+- 你还可以对某个元素进行监听，在JS对元素的属性或者HTML进行修改的时候，直接触发断点，跳转到对改元素进行修改的JS代码处：
+- ![styles_breakon](images/styles_breakon.png)
 
 
 
