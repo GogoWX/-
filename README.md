@@ -24,6 +24,8 @@ Chrome当前版本一共有9个功能子集，每一个图标点击后都会打�
 
 <div align = center>![elements_styles1](images/elements_styles1.png)</div>
 
+<image src = 'images/elements_styles1.png' align = 'center' alt = 'elements_styles1'></image>
+
 点击![styles_arrow](images/styles_arrow.png)点击页面上的元素，显示选中元素的HTML代码和样式；
 
 - 编辑HTML：在工具窗口左侧是html代码，可通过双击修改现有标签的属性值，也可选中html代码片段右击选择“Edit as HTML”进行html代码的修改；
@@ -40,6 +42,7 @@ Chrome当前版本一共有9个功能子集，每一个图标点击后都会打�
 
 <div align = center>![styles_breakon](images/styles_breakon.png)</div>
 
+<image src = 'images/styles_breakon.png' align = 'center' alt = 'styles_breakon'></image>
 
 
 
