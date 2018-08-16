@@ -22,7 +22,7 @@ Chrome当前版本一共有9个功能子集，每一个图标点击后都会打�
 
 1. styles
 
-<div align = center>![elements_styles1](images/elements_styles1.png)</div>
+<div align = center> ![elements_styles1](images/elements_styles1.png) </div>
 
 <image src = 'images/elements_styles1.png' align = 'center' alt = 'elements_styles1'></image>
 
@@ -40,7 +40,7 @@ Chrome当前版本一共有9个功能子集，每一个图标点击后都会打�
 
 - 你还可以对某个元素进行监听，在JS对元素的属性或者HTML进行修改的时候，直接触发断点，跳转到对改元素进行修改的JS代码处：
 
-<div align = center>![styles_breakon](images/styles_breakon.png)</div>
+<div align = center> ![styles_breakon](images/styles_breakon.png) </div>
 
 <image src = 'images/styles_breakon.png' align = 'center' alt = 'styles_breakon'></image>
 
